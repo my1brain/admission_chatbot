@@ -22,7 +22,7 @@ A modern, AI-powered chatbot designed to help prospective students with Universi
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/mitadt_chatbot.git
+   git clone https://github.com/yourusername/admission_chatbot.git
    cd admission_chatbot
    ```
 
@@ -141,9 +141,8 @@ For production deployment, consider using:
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
 ## 🙏 Acknowledgments
 
@@ -156,7 +155,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you encounter any issues or have questions:
 
-1. Check the [Issues](https://github.com/yourusername/mitadt_chatbot/issues) page
+1. Check the [Issues](https://github.com/mybrain1/admission_chatbot/issues) page
 2. Create a new issue with detailed information
 3. Contact the development team
 
