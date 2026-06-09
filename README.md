@@ -151,14 +151,4 @@ For production deployment, consider using:
 - LangChain for the RAG implementation
 - Ollama for local LLM capabilities
 
-## 📞 Support
 
-If you encounter any issues or have questions:
-
-1. Check the [Issues](https://github.com/mybrain1/admission_chatbot/issues) page
-2. Create a new issue with detailed information
-3. Contact the development team
-
----
-
-**Made with ❤️ for university**
